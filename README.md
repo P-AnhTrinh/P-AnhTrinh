@@ -6,8 +6,6 @@
 <img align='right' src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250">
 
 
-
-
 <h3 align="left">Spotify Playing</h3>
 <p align="center">
 <img src="https://spotify-readme-p-anhtrinh.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
