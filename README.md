@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a cat
+### Hi there 👋 I'm a chubby meow
 
 <!--
 **P-AnhTrinh/P-AnhTrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
