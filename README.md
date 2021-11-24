@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a cat
 
 <!--
 **P-AnhTrinh/P-AnhTrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://spotify-readme-p-anhtrinh.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+
+
